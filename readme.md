@@ -5,15 +5,15 @@ In this section of my portfolio, I aim to demonstrate my skills as a video game 
 ## Links
 
 ### Muhammad Nouval Ar-Rizqy's Portfolio
-- [Source Code](https://github.com/nouvalrizqy05-ui/portofolio)
+- [Source Code](https://github.com/nouvalarrrgh/3d-portfolio)
 - [Live Demo](https://muhammadnouvalarrizqy.vercel.app/)
 
 ### Nouval's OS
-- [Source Code](https://github.com/nouvalrizqy05-ui/nouval-os)
+- [Source Code](https://github.com/nouvalarrrgh/nouval-os)
 - [Live Demo](https://nouval-os.vercel.app/)
 
 ### Nouval's Art Gallery
-- [Source Code](https://github.com/nouvalrizqy05-ui/nouval-art-gallery)
+- [Source Code](https://github.com/nouvalarrrgh/nouval-art-gallery)
 - [Live Demo](https://nouval-art-gallery.vercel.app/)
 
 ## Setup
